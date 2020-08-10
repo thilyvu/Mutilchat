@@ -1,0 +1,16 @@
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\bin\Debug\Client-Sever-App.exe.config
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\bin\Debug\Client-Sever-App.exe
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\bin\Debug\Client-Sever-App.pdb
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\bin\Debug\SimpleTCP.dll
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\MainWindow.g.cs
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\App.g.cs
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App_MarkupCompile.cache
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App_MarkupCompile.lref
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\MainWindow.baml
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App.g.resources
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client_Sever_App.Properties.Resources.resources
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App.csproj.GenerateResource.cache
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App.csproj.CoreCompileInputs.cache
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App.csproj.CopyComplete
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App.exe
+C:\Users\thilyvu\Desktop\Untitled Export\Client-Sever-App\Client-Sever-App\obj\Debug\Client-Sever-App.pdb

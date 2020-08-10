@@ -1,0 +1,34 @@
+﻿<Window x:Name="Client1" x:Class="Client_Sever_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_Sever_App"
+        mc:Ignorable="d"
+        Title="Client" Height="450" Width="800" Closed="Window_Closed">
+    <Grid>
+
+        <TextBlock Margin="24,10,695.6,369" FontSize="20" FontFamily="Times New Roman">
+            HOST:
+        </TextBlock>
+        <TextBox x:Name="TBhost" Margin="114,10,498.6,369" FontSize="20" FontFamily="Times New Roman">
+            127.0.0.1
+        </TextBox>
+        <TextBlock x:Name="TBwall" Margin="24,57,34.6,97"  FontSize="30" FontFamily="Times New Roman">
+            
+        </TextBlock>
+        <TextBlock Margin="460,11,258.6,368" FontSize="20" FontFamily="Times New Roman">
+            PORT:
+        </TextBlock>
+        <TextBox x:Name="TBport" Margin="558,10,159.6,369" FontSize="20" FontFamily="Times New Roman">
+            9099 
+        </TextBox>
+        <Button x:Name="btConnect" Margin="657,10,34.6,369" FontSize="20" FontFamily="Times New Roman" Click="btConnect_Click">
+            Connect
+        </Button>
+        <TextBox x:Name="tbMessage" Margin="24,328,34.6,47" Grid.ColumnSpan="2" FontSize="20" FontFamily="Times New Roman"/>
+        <Button x:Name="btSend" Margin="190.068,378,34.6,10" FontSize="18" FontFamily="Times New Roman" Click="btSend_Click" Grid.Column="1">
+            SEND
+        </Button>
+    </Grid>
+</Window>
